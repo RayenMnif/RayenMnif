@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<img src="assets/banner.svg" alt="Rayen Mnif banner" width="100%" />
+</div>
 
-<!--
-**RayenMnif/RayenMnif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="assets/terminal.svg" alt="rayen@RayenMnif neofetch" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,github,linux,bash,neovim,js,nodejs,express,fastify" alt="Tech stack" />
+
+</div> 
